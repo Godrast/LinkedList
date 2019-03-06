@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\c++\linkedlist\linkedlist\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\c++\linkedlist\linkedlist\main.cpp(14): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  LinkedList.vcxproj -> D:\c++\LinkedList\Debug\LinkedList.exe
